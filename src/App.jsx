@@ -68,8 +68,8 @@ const PROJECTS = [
   {
     title: 'Designing with Cloud',
     cats: ['ML', 'GenAI'],
-    desc: 'An NLP tool that reads a software requirements document, separates functional from non-functional requirements, and recommends matching AWS and Azure services, with a cost estimate and infrastructure-as-code export.',
-    tags: ['Python', 'NLP', 'AWS', 'Azure'],
+    desc: 'An assistant that reads a software requirements document, extracts the functional and non-functional requirements, and asks follow-up questions when the input is incomplete. It maps requirements to AWS, Azure and GCP services and compares costs in INR, with a drag-and-drop diagram designer and infrastructure-as-code export.',
+    tags: ['AWS Bedrock', 'Claude Sonnet', 'React', 'Node.js','Express','MongoDB'],
     links: [],
   },
 ]
